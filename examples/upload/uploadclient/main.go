@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/imroc/req/v3"
+	"github.com/witwoywhy/req"
 )
 
 func main() {

@@ -21,9 +21,9 @@ import (
 	utls "github.com/refraction-networking/utls"
 	"golang.org/x/net/publicsuffix"
 
-	"github.com/imroc/req/v3/http2"
-	"github.com/imroc/req/v3/internal/header"
-	"github.com/imroc/req/v3/internal/util"
+	"github.com/witwoywhy/req/http2"
+	"github.com/witwoywhy/req/internal/header"
+	"github.com/witwoywhy/req/internal/util"
 
 	"github.com/google/go-querystring/query"
 )

@@ -13,7 +13,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/imroc/req/v3/internal/util"
+	"github.com/witwoywhy/req/internal/util"
 	"io"
 )
 

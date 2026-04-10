@@ -7,8 +7,8 @@ import (
 
 	"golang.org/x/net/http/httpguts"
 
-	"github.com/imroc/req/v3/internal/ascii"
-	"github.com/imroc/req/v3/internal/header"
+	"github.com/witwoywhy/req/internal/ascii"
+	"github.com/witwoywhy/req/internal/header"
 )
 
 // Given a string of the form "host", "host:port", or "[ipv6::address]:port",
