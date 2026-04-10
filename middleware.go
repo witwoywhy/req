@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/imroc/req/v3/internal/header"
-	"github.com/imroc/req/v3/internal/util"
+	"github.com/witwoywhy/req/internal/header"
+	"github.com/witwoywhy/req/internal/util"
 )
 
 type (

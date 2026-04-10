@@ -1,4 +1,4 @@
-module github.com/imroc/req/v3
+module github.com/witwoywhy/req
 
 go 1.24.0
 

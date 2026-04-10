@@ -35,15 +35,15 @@ import (
 	"golang.org/x/net/http2/hpack"
 	"golang.org/x/net/idna"
 
-	"github.com/imroc/req/v3/http2"
-	"github.com/imroc/req/v3/internal/ascii"
-	"github.com/imroc/req/v3/internal/common"
-	"github.com/imroc/req/v3/internal/compress"
-	"github.com/imroc/req/v3/internal/dump"
-	"github.com/imroc/req/v3/internal/header"
-	"github.com/imroc/req/v3/internal/netutil"
-	"github.com/imroc/req/v3/internal/transport"
-	reqtls "github.com/imroc/req/v3/pkg/tls"
+	"github.com/witwoywhy/req/http2"
+	"github.com/witwoywhy/req/internal/ascii"
+	"github.com/witwoywhy/req/internal/common"
+	"github.com/witwoywhy/req/internal/compress"
+	"github.com/witwoywhy/req/internal/dump"
+	"github.com/witwoywhy/req/internal/header"
+	"github.com/witwoywhy/req/internal/netutil"
+	"github.com/witwoywhy/req/internal/transport"
+	reqtls "github.com/witwoywhy/req/pkg/tls"
 )
 
 const (

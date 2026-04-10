@@ -17,8 +17,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/imroc/req/v3/internal/header"
-	"github.com/imroc/req/v3/internal/tests"
+	"github.com/witwoywhy/req/internal/header"
+	"github.com/witwoywhy/req/internal/tests"
 	"golang.org/x/net/publicsuffix"
 )
 

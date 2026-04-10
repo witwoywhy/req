@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/imroc/req/v3"
+	"github.com/witwoywhy/req"
 )
 
 // Change the name if you want
